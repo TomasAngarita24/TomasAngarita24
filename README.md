@@ -1,5 +1,6 @@
 ## Hola, soy Tomas Angarita 👋
  Estudiante de ingenieria de sistemas en la Universidad Nacional de Colombia.
+ 
  Desarrollador en proceso con fundamentos en programación estructurada y orientada a objetos.  
  Experiencia trabajando con C++, Java y Python.  
  Experiencia en diseño y gestión de bases de datos relacionales con PostgreSQL y MySQL.  
