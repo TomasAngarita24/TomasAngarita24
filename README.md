@@ -21,7 +21,7 @@ Actualmente estoy fortaleciendo mi perfil en desarrollo backend y arquitectura d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
-- C++ (programación básica y OOP)
+- C++ (programación básica y POO)
 - Java (POO, estructuras, conexión a base de datos)
 - Python (fundamentos y lógica)
 
